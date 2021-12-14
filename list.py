@@ -19,6 +19,7 @@ loggerTutu = logging.getLogger("TUTU")
 my_list = ["janvier", "fevrier", "mars"]
 
 print(my_list[0])
+print(my_list[1])
 
 my_list.append("avril")
 
