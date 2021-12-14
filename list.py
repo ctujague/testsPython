@@ -24,4 +24,4 @@ my_list.append("avril")
 
 print(my_list[len(my_list)-1])
 
-loggerTutu.info("Mois lu: " + my_list[0])
+loggerTutu.info("Mois lu: " + my_list[1])
